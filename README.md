@@ -25,28 +25,8 @@ A full-stack web application where students can upload, find, and review study m
 
 ---
 
-## 📦 Installation
 
-### 1. Clone the Repository
-
-```bash
-# paste your repo from github instead of mine
-git clone https://github.com/Rounak697/Notes-Hub.git 
-
-cd NotesHub
-```
-
-### 2. Install Dependencies
-
-#### For the client:
-```bash
-cd client
-npm install
-npm run dev
-```
-## 🌐 Usage
-
-- Visit at: [http://localhost:5173](http://localhost:5173)
+- Visit at: [https://notes-hub-client-weld.vercel.app/](https://notes-hub-client-weld.vercel.app/)
 
 ---
 
